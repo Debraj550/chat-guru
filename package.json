@@ -1,0 +1,22 @@
+{
+  "name": "chatguru",
+  "version": "1.0.0",
+  "description": "This is an advanced socket io chat application with mern stack - debraj",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debraj550/chat-guru.git"
+  },
+  "author": "Debraj Dhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debraj550/chat-guru/issues"
+  },
+  "homepage": "https://github.com/Debraj550/chat-guru#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
