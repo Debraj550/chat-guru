@@ -3,4 +3,6 @@
 .App {
   min-height: 100vh;
   display: flex;
+  background-color: rgb(29, 30, 32);
+  background-size: cover;
 }
