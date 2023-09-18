@@ -10,7 +10,7 @@ import ChatBox from "../components/ChatBox";
 const ChatPage = () => {
   const { user } = ChatState();
   return (
-    <div style={{ width: "100%", color: "white" }}>
+    <div style={{ width: "100%" }}>
       {user && <SideDrawer />}
       <Box
         display="flex"
